@@ -325,10 +325,10 @@ author: Fariba Sarhangnia
 ###############################################
 
 navbar-links:
-  About Me: "about.md"
-  Publications: "publications.md"
-  Projects: "projects.md"
-  Blog: "blog"
+  About Me: "/aboutme/"
+  Publications: "/publications/"
+  Projects: "/projects/"
+  Blog: "/blog/"
 
 ################
 # --- Logo --- #
