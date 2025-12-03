@@ -344,11 +344,11 @@ round-avatar: true
 
 social-network-links:
   email: "sarhnagniafariba@gmail.com"
-  github: "sarhnagniafariba-maker"
-  linkedin: "fariba-sarhangnia"
-  researchgate: "Fariba_Sarhangnia"
-  twitter: "faribaAI" # optional, or remove if not applicable
-  google-scholar: "FJbP7HsAAAAJ" # replace with your Google Scholar ID if you have one
+  github: "https://github.com/sarhnagniafariba-maker"
+  linkedin: "https://www.linkedin.com/in/fariba-sarhangnia-70a723261/?originalSubdomain=ir"
+  researchgate: "https://www.researchgate.net/profile/Fariba-Sarhangnia/research"
+  # twitter: "faribaAI" # optional, or remove if not applicable
+  google-scholar: "https://scholar.google.com/citations?user=aOTqk-0AAAAJ&hl=en" # replace with your Google Scholar ID if you have one
 
 rss: true  # generates RSS feed
 
