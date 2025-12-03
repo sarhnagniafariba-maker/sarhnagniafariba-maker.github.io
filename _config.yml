@@ -328,8 +328,8 @@ navbar-links:
   About Me: "/aboutme/"
   Publications: "/publications/"
   Research Interests: "research-interests"
-  Projects: "/projects/"
-  Blog: "/blog/"
+  # Projects: "/projects/"
+  # Blog: "/blog/"
 
 ################
 # --- Logo --- #
