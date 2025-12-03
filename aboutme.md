@@ -1,3 +1,9 @@
+---
+layout: page
+title: About Me
+permalink: /aboutme/
+---
+
 # About Me
 
 Hello! I'm **Fariba Sarhangnia**, an Applied AI researcher with over **7 years of experience** in **machine learning**, **deep learning**, **optimisation**, and **biomedical data modelling**. I have a strong passion for leveraging AI to solve complex problems in **healthcare**, **bioinformatics**, and **network analysis**.
