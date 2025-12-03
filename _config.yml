@@ -336,8 +336,8 @@ navbar-links:
 ################
 
 # Image to show in the navigation bar - square works best
-avatar: "/assets/img/fariba.jpeg"
-round-avatar: true
+# avatar: "/assets/img/fariba.jpeg"
+# round-avatar: true
 
 #####################################
 # --- Footer social media links --- #
